@@ -9,6 +9,6 @@ Details to include:
   • CIBIL Score Analysis and Prediction using Machine Learning
   • Real-Time Object Detection using OpenCV
 - Career goal: To become a skilled Full Stack Developer and contribute to real-world applications
-- Mention continuous learning and problem-solving mindset
+  
 
 
